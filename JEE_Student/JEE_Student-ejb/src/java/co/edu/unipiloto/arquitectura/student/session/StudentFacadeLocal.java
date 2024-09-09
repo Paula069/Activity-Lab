@@ -11,7 +11,7 @@ import javax.ejb.Local;
 
 /**
  *
- * @author maria
+ * @author Andrea
  */
 @Local
 public interface StudentFacadeLocal {
